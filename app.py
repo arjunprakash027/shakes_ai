@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-  return render_template('home.html')
+  return render_template('home.html',content="Hi, I am a AI language model developed by Arjun, trained on vast amounts of text data of Shakespearean literature. I have the capability to generate Shakespearean sonnets, that match the rhyme and meter patterns of the original works, while also providing a unique and creative touch to the generated poems. Please enter a prompt to get started.")
 
 @app.route('/',methods = ['POST', 'GET'])
 def result():
