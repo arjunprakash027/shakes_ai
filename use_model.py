@@ -26,7 +26,7 @@ class shakes_ai:
     ])
         return model
 
-    def generate_text(self,start_string,num_generate=500):
+    def generate_text(self,start_string,num_generate=2000):
         model = self.build_model(self.VOCAB_SIZE, self.EMBEDDING_DIM, self.RNN_UNITS, batch_size=1)
         model.load_weights(tf.train.latest_checkpoint(self.checkpoint_dir))
         model.build(tf.TensorShape([1, None]))
