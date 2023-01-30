@@ -7,9 +7,9 @@
   <p align="center">
     Shakes AI is a small language model developed by me, trained on around 1 million lines of text data containing Shakespearean literature. This model has the capability to generate Shakespearean sonnets, that match the rhyme and meter patterns of the original works, while also providing a unique and creative touch to the generated poems
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://shakes_ai/issues/new?template=bug.md">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://shakes_ai/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
