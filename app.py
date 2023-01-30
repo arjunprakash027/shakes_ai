@@ -19,7 +19,7 @@ def result():
    if request.method == 'POST':
       prompt = request.form.get("prompt")
       print(prompt)
-      return render_template("home.html",prompt=prompt,content = ai.generate_text(prompt))
+      return render_template("home.html",prompt=prompt,content = ai.generate_text(prompt,700))
 
 if __name__ == "__main__":
   app.run()
