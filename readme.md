@@ -1,12 +1,11 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+  [screen-capture.webm](https://user-images.githubusercontent.com/72484657/215533968-6467de56-7e32-444d-a3f8-b60c906b270a.webm)
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Shakes AI</h3>
 
   <p align="center">
-    Short description
+    Shakes AI is a small language model developed by me, trained on around 1 million lines of text data containing Shakespearean literature. This model has the capability to generate Shakespearean sonnets, that match the rhyme and meter patterns of the original works, while also providing a unique and creative touch to the generated poems
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
@@ -20,43 +19,44 @@
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 
 ## Quick start
 
-Some text
+This program on runs on flask
+to run this program on flask:
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Install git on local computer
+- go to cmd and type git clone https://github.com/arjunprakash027/shakes_ai
+- cd shakes_ai
+- pip install -r requirements.txt
+- flask run
+- The app should have started on localhost:8000
 
 ## Status
 
-Here goes all the budgets
+This website is not hosted on internet as it demands more power and resources than those provided in free tier
 
 ## What's included
 
-Some text
 
 ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+shakes_ai/
+└── templates/
+    │   ├── home.html
+    │  
+    ├── app.py  (this runs the flask server)
+    └── requirements.py
+    └── use_model.py  (has the program that loads the language model)
+    └── training_checkpoints/
+        ├── checkpoint
+        ├── ckpt_500.data (the trained language model)
+        ├── ckpt_500.index
 ```
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
 ## Contributing
 
@@ -70,14 +70,11 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 **Creator 1**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/arjunprakash027>
 
 ## Thanks
 
-Some Text
+Hope you liked my project....would love to connect
 
-## Copyright and license
-
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
 Enjoy :metal:
