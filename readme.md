@@ -1,5 +1,5 @@
 <p align="center">
-[screen-recorder-mon-jan-30-2023-22-11-41.webm](https://user-images.githubusercontent.com/72484657/215539746-9499f777-137c-48ed-b76a-eed4fa94fcd8.webm)
+https://user-images.githubusercontent.com/72484657/215540770-b92cf138-260d-4fe1-8be9-022202260fbd.mp4
   </a>
 
   <h3 align="center">Shakes AI</h3>
