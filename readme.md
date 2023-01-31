@@ -40,6 +40,7 @@ to run this program on flask:
 ## Status
 
 This website is not hosted on internet as it demands more power and resources than those provided in free tier
+training code -> https://colab.research.google.com/drive/1xnic0WyrvaYnvr-2-34dYqpz5jTL00Ca?usp=sharing
 
 ## What's included
 
@@ -61,11 +62,9 @@ shakes_ai/
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please free feel to contribute to this project
 
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+Training code -> https://colab.research.google.com/drive/1xnic0WyrvaYnvr-2-34dYqpz5jTL00Ca?usp=sharing
 
 ## Creators
 
