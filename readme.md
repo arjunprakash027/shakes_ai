@@ -77,4 +77,3 @@ Training code -> https://colab.research.google.com/drive/1xnic0WyrvaYnvr-2-34dYq
 Hope you liked my project....would love to connect
 
 
-Enjoy :metal:
